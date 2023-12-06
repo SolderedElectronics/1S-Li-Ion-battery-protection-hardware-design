@@ -2,7 +2,7 @@
 
 ## About the product
 
-| ![1S Li-Ion battery protection](https://github.com/SolderedElectronics/1S-Li-Ion-battery-protection-board-hardware-design/blob/main/OUTPUTS/V1.1.1/333049.jpg?raw=true) |
+| ![1S Li-Ion battery protection](https://raw.githubusercontent.com/SolderedElectronics/1S-Li-Ion-battery-protection-hardware-design/main/OUTPUTS/V1.0.0/333049.jpg?raw=true) |
 | :----------------------------------------------------------: |
 |      [Buy 1S Li-Ion battery protection](https://www.solde.red/333049)      |
 
